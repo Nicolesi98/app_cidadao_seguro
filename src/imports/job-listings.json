@@ -1,0 +1,186 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Desenvolvedor de Software",
+            "company": "Google",
+            "company_website": "https://google.com",
+            "number_of_positions": 3,
+            "city": "Mountain View",
+            "schedule": "full-time",
+            "salary": 10000,
+            "description": "Estamos procurando um desenvolvedor de software apaixonado por tecnologia para se juntar à nossa equipe dinâmica no Google. Você terá a oportunidade de trabalhar em projetos inovadores que impactam milhões de usuários globalmente. Será responsável por desenvolver soluções escaláveis, participar de code reviews, e colaborar com times multidisciplinares em um ambiente ágil.",
+            "requirements": "- Sólida experiência com PHP 8+ e frameworks Laravel\n- Proficiência em Vue.js e ecossistema frontend\n- Conhecimento em práticas de clean code e design patterns\n- Experiência com desenvolvimento orientado a testes (TDD)\n- Familiaridade com sistemas de controle de versão Git\n- Boa comunicação e trabalho em equipe\n- Inglês fluente",
+            "created_at": "2026-03-08T15:00:02.000000Z",
+            "updated_at": "2026-03-08T15:00:02.000000Z"
+        },
+        {
+            "id": 2,
+            "title": "Desenvolvedor Frontend",
+            "company": "Facebook",
+            "company_website": "https://facebook.com",
+            "number_of_positions": 2,
+            "city": "Menlo Park",
+            "schedule": "full-time",
+            "salary": 9000,
+            "description": "Como desenvolvedor Frontend no Facebook, você será parte fundamental na construção de interfaces que conectam bilhões de pessoas. Buscamos alguém que combine criatividade e habilidades técnicas para criar experiências excepcionais. Você trabalhará com as mais recentes tecnologias web e terá impacto direto na forma como as pessoas interagem com nossa plataforma.",
+            "requirements": "- Domínio avançado de Vue.js e React.js\n- Experiência com TypeScript e JavaScript moderno\n- Conhecimento em otimização de performance web\n- Experiência com ferramentas de build modernas (Webpack, Vite)\n- Conhecimento em acessibilidade web e SEO\n- Experiência com CSS moderno e pré-processadores\n- Habilidade para criar interfaces responsivas\n- Inglês avançado",
+            "created_at": "2026-03-08T15:00:02.000000Z",
+            "updated_at": "2026-03-08T15:00:02.000000Z"
+        },
+        {
+            "id": 3,
+            "title": "Desenvolvedor Backend",
+            "company": "Amazon",
+            "company_website": "https://amazon.com",
+            "number_of_positions": 4,
+            "city": "Seattle",
+            "schedule": "full-time",
+            "salary": 8000,
+            "description": "Na Amazon, você fará parte de uma equipe que desenvolve soluções escaláveis que atendem milhões de clientes. Você será responsável pela arquitetura de microsserviços, otimização de performance e segurança de APIs. Trabalhará com tecnologias de ponta e terá a oportunidade de contribuir para a evolução da maior plataforma de e-commerce do mundo.",
+            "requirements": "- Experiência sólida com PHP 8+ e Laravel\n- Conhecimento profundo de arquitetura de microsserviços\n- Experiência com bancos de dados relacionais e NoSQL\n- Domínio de práticas de segurança e performance\n- Experiência com APIs RESTful e GraphQL\n- Conhecimento em Docker e containers\n- Habilidade em escrever testes automatizados\n- Inglês técnico avançado",
+            "created_at": "2026-03-08T15:00:02.000000Z",
+            "updated_at": "2026-03-08T15:00:02.000000Z"
+        },
+        {
+            "id": 4,
+            "title": "Desenvolvedor Fullstack",
+            "company": "Microsoft",
+            "company_website": "https://microsoft.com",
+            "number_of_positions": 1,
+            "city": "Redmond",
+            "schedule": "full-time",
+            "salary": 7000,
+            "description": "Como desenvolvedor Fullstack na Microsoft, você terá a oportunidade de trabalhar em todas as camadas do desenvolvimento de software. Desde a criação de interfaces modernas até a implementação de APIs robustas. Você fará parte de uma equipe que desenvolve soluções empresariais utilizadas por milhões de profissionais globalmente.",
+            "requirements": "- Domínio de PHP e frameworks Laravel\n- Experiência sólida com Vue.js e React.js\n- Conhecimento em arquitetura de software\n- Experiência com bancos de dados SQL e NoSQL\n- Familiaridade com metodologias ágeis\n- Conhecimento em CI/CD\n- Experiência com Azure ou outras clouds\n- Inglês fluente",
+            "created_at": "2026-03-08T15:00:02.000000Z",
+            "updated_at": "2026-03-08T15:00:02.000000Z"
+        },
+        {
+            "id": 5,
+            "title": "Engenheiro de DevOps",
+            "company": "Netflix",
+            "company_website": "https://netflix.com",
+            "number_of_positions": 3,
+            "city": "Los Gatos",
+            "schedule": "full-time",
+            "salary": 6000,
+            "description": "Como Engenheiro DevOps na Netflix, você será responsável por construir e manter a infraestrutura que permite streaming de conteúdo para milhões de usuários simultaneamente. Você trabalhará com tecnologias de ponta em escala global, automatizando processos e garantindo alta disponibilidade dos sistemas.",
+            "requirements": "- Experiência avançada com AWS e seus serviços\n- Domínio de Docker e orquestração com Kubernetes\n- Conhecimento em IaC (Terraform, CloudFormation)\n- Experiência com ferramentas de CI/CD\n- Monitoramento e observabilidade\n- Conhecimento em práticas de segurança\n- Experiência com Python ou Go\n- Inglês fluente",
+            "created_at": "2026-03-08T15:00:02.000000Z",
+            "updated_at": "2026-03-08T15:00:02.000000Z"
+        },
+        {
+            "id": 6,
+            "title": "Cientista de Dados",
+            "company": "Apple",
+            "company_website": "https://apple.com",
+            "number_of_positions": 2,
+            "city": "Cupertino",
+            "schedule": "part-time",
+            "salary": 5000,
+            "description": "Na Apple, você será parte de uma equipe de cientistas de dados que transformam grandes volumes de dados em insights acionáveis. Você desenvolverá modelos preditivos, realizará análises complexas e contribuirá para a tomada de decisões estratégicas usando técnicas avançadas de machine learning.",
+            "requirements": "- Mestrado ou Doutorado em área relacionada\n- Domínio de Python e suas bibliotecas (Pandas, NumPy)\n- Experiência com ML frameworks (TensorFlow, PyTorch)\n- Conhecimento em estatística avançada\n- Experiência com Big Data (Spark, Hadoop)\n- Habilidade em visualização de dados\n- Experiência com SQL e NoSQL\n- Inglês avançado",
+            "created_at": "2026-03-08T15:00:02.000000Z",
+            "updated_at": "2026-03-08T15:00:02.000000Z"
+        },
+        {
+            "id": 7,
+            "title": "Engenheiro de QA",
+            "company": "Twitter",
+            "company_website": "https://twitter.com",
+            "number_of_positions": 1,
+            "city": "San Francisco",
+            "schedule": "part-time",
+            "salary": 4000,
+            "description": "Como Engenheiro de QA no Twitter, você será fundamental para garantir a qualidade das nossas aplicações. Você desenvolverá e manterá frameworks de teste automatizado, implementará estratégias de teste end-to-end e colaborará com times de desenvolvimento para prevenir bugs e melhorar a qualidade do código.",
+            "requirements": "- Experiência avançada com Selenium e PHPUnit\n- Conhecimento em frameworks de teste automatizado\n- Experiência com teste de performance e carga\n- Familiaridade com CI/CD pipelines\n- Conhecimento em JavaScript e PHP\n- Experiência com ferramentas de teste de API\n- Habilidade em documentar casos de teste\n- Inglês avançado",
+            "created_at": "2026-03-08T15:00:02.000000Z",
+            "updated_at": "2026-03-08T15:00:02.000000Z"
+        },
+        {
+            "id": 8,
+            "title": "Analista de Segurança",
+            "company": "LinkedIn",
+            "company_website": "https://linkedin.com",
+            "number_of_positions": 4,
+            "city": "Sunnyvale",
+            "schedule": "full-time",
+            "salary": 7500,
+            "description": "Como Analista de Segurança no LinkedIn, você protegerá dados sensíveis de milhões de usuários. Será responsável por realizar avaliações de segurança, identificar vulnerabilidades, implementar controles de segurança e responder a incidentes. Trabalhará com as últimas tecnologias em segurança cibernética.",
+            "requirements": "- Certificações em segurança (CISSP, CEH, OSCP)\n- Experiência com pentesting e análise de vulnerabilidades\n- Conhecimento em segurança de redes e aplicações web\n- Experiência com ferramentas de segurança\n- Familiaridade com compliance (GDPR, SOX)\n- Conhecimento em forense digital\n- Habilidade em análise de malware\n- Inglês fluente",
+            "created_at": "2026-03-08T15:00:02.000000Z",
+            "updated_at": "2026-03-08T15:00:02.000000Z"
+        },
+        {
+            "id": 9,
+            "title": "Desenvolvedor Mobile",
+            "company": "Uber",
+            "company_website": "https://uber.com",
+            "number_of_positions": 3,
+            "city": "San Francisco",
+            "schedule": "full-time",
+            "salary": 8500,
+            "description": "Na Uber, você desenvolverá recursos inovadores para nosso aplicativo usado por milhões de usuários diariamente. Será responsável por criar experiências móveis excepcionais, otimizar performance e implementar novos recursos que impactam diretamente motoristas e passageiros em todo o mundo.",
+            "requirements": "- Domínio de Swift para iOS ou Kotlin para Android\n- Experiência com padrões de arquitetura mobile\n- Conhecimento em performance e otimização\n- Experiência com integração de APIs\n- Familiaridade com CI/CD mobile\n- Conhecimento em testes automatizados\n- Experiência com análise de métricas\n- Inglês avançado",
+            "created_at": "2026-03-08T15:00:02.000000Z",
+            "updated_at": "2026-03-08T15:00:02.000000Z"
+        },
+        {
+            "id": 10,
+            "title": "Designer de UX/UI",
+            "company": "Airbnb",
+            "company_website": "https://airbnb.com",
+            "number_of_positions": 2,
+            "city": "San Francisco",
+            "schedule": "full-time",
+            "salary": 7000,
+            "description": "Como Designer UX/UI no Airbnb, você criará experiências digitais que conectam pessoas ao redor do mundo. Será responsável pelo design de interfaces intuitivas e atraentes, conduzirá pesquisas com usuários e colaborará com times multidisciplinares para criar soluções inovadoras de design.",
+            "requirements": "- Domínio de Figma e Adobe XD\n- Portfolio sólido de projetos digitais\n- Experiência com design systems\n- Conhecimento em pesquisa de usuário\n- Habilidade em prototipagem\n- Experiência com design responsivo\n- Conhecimento em acessibilidade\n- Inglês fluente",
+            "created_at": "2026-03-08T15:00:02.000000Z",
+            "updated_at": "2026-03-08T15:00:02.000000Z"
+        }
+    ],
+    "links": {
+        "first": "https://apis.codante.io/api/job-board/jobs?page=1",
+        "last": "https://apis.codante.io/api/job-board/jobs?page=3",
+        "prev": null,
+        "next": "https://apis.codante.io/api/job-board/jobs?page=2"
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 3,
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Anterior",
+                "active": false
+            },
+            {
+                "url": "https://apis.codante.io/api/job-board/jobs?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": "https://apis.codante.io/api/job-board/jobs?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": "https://apis.codante.io/api/job-board/jobs?page=3",
+                "label": "3",
+                "active": false
+            },
+            {
+                "url": "https://apis.codante.io/api/job-board/jobs?page=2",
+                "label": "Próximo &raquo;",
+                "active": false
+            }
+        ],
+        "path": "https://apis.codante.io/api/job-board/jobs",
+        "per_page": 10,
+        "to": 10,
+        "total": 30
+    }
+}
